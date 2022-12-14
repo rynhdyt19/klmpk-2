@@ -1,0 +1,24 @@
+.container {
+    background-color: #00C4CC;
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    margin-top: 180px;
+    border-radius: 5px;
+    box-shadow: 0px .2px 0px .2px;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.login a{
+    /* text-decoration: none; */
+    color: #000;
+}
+
+.atas a:hover{
+    color: #ffff;
+    transition: 2;
+}
+

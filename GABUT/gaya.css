@@ -1,0 +1,21 @@
+.kolom-foter3 svg {
+    width: 50px;
+}
+
+.footer .container{
+    padding-top: 30px;
+}
+
+.atas a:hover{
+    color: #ffff;
+    transition: 2;
+}
+
+.isi {
+    margin-top: 140px;
+    margin-bottom: 100px;
+}
+
+.isi2 {
+    margin-bottom: 100px;
+}
